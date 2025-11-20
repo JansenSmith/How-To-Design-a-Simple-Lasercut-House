@@ -5,26 +5,32 @@ In this tutorial, we will be using the open source python script boxes.py, avail
 # Image
 
 Basic house: 
+
 ![Basic house](image/basic_house.jpg)
 
 
 Boxes/py site: 
+
 ![website](image/intro.png)
 
 
 Sizing: 
+
 ![Sizing](image/sizing_annotated.png)
 
 
 Misc settings: 
+
 ![Misc settings](image/misc_settings_annotated.png)
 
 
 Buttons: 
+
 ![Buttons](image/buttons_base.png)
 
 
 Preview: 
+
 ![Preview](image/preview.png)
 
 
