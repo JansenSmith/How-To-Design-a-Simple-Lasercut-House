@@ -9,23 +9,23 @@ Basic house:
 
 
 Boxes/py site: 
-![website](image/intro.jpg)
+![website](image/intro.png)
 
 
 Sizing: 
-![Sizing](image/sizing_annotated.jpg)
+![Sizing](image/sizing_annotated.png)
 
 
 Misc settings: 
-![Misc settings](image/misc_settings_annotated.jpg)
+![Misc settings](image/misc_settings_annotated.png)
 
 
 Buttons: 
-![Buttons](image/buttons_base.jpg)
+![Buttons](image/buttons_base.png)
 
 
 Preview: 
-![Preview](image/preview.jpg)
+![Preview](image/preview.png)
 
 
 # Links
