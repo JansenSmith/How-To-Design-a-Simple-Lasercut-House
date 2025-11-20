@@ -8,7 +8,7 @@ In this tutorial, we will be using the open source python script boxes.py, avail
 ![Basic house](image/basic_house.jpg)
 
 
-![Boxes.py website](image/intro.png)
+![Boxes.py website. See link above.](image/intro.png)
 
 
 ![Size of internal rooms in red. Size of roof in green.](image/sizing_annotated.png)
@@ -25,4 +25,4 @@ In this tutorial, we will be using the open source python script boxes.py, avail
 
 # Links
 
-[Boxes.py house creator](https://boxes.hackerspace-bamberg.de/BirdHouse)
+Boxes.py house creator - [https://boxes.hackerspace-bamberg.de/BirdHouse](https://boxes.hackerspace-bamberg.de/BirdHouse)
