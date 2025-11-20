@@ -4,34 +4,23 @@ In this tutorial, we will be using the open source python script boxes.py, avail
 
 # Image
 
-Basic house: 
 
 ![Basic house](image/basic_house.jpg)
 
 
-Boxes/py site: 
-
-![website](image/intro.png)
+![Boxes.py website](image/intro.png)
 
 
-Sizing: 
-
-![Sizing](image/sizing_annotated.png)
+![Size of internal rooms in red. Size of roof in green.](image/sizing_annotated.png)
 
 
-Misc settings: 
-
-![Misc settings](image/misc_settings_annotated.png)
+![Wood thickness in red (remember to change to 6mm if you are using thicker wood). Add a QR code to the SVG in green.](image/misc_settings_annotated.png)
 
 
-Buttons: 
-
-![Buttons](image/buttons_base.png)
+![Buttons: Save to URL lets you save your design, so that you can work on it later or share with others. Generate shows you a larger preview. Download lets you save the SVG locally.](image/buttons_base.png)
 
 
-Preview: 
-
-![Preview](image/preview.png)
+![This preview image shows you what your SVG will look like. Note the Zoom feature. The QR code links to the design you have made. The 100mm rectangle at the bottom can help you size on the laser cutter.](image/preview.png)
 
 
 # Links
